@@ -5,7 +5,9 @@
 *In Mobile Spotlight, we'll talk a bit about interesting events or activities in the space.*
 
 ##NY.GOV
-This week, we highlight http://NY.Gov  NY.Gov is run by Rachel Haot, a 30 year old NYU graduate who became New York City's first ever Chief Digital Officer at just 26 years old under Mayor Michael Bloomberg.  Rachel is a powerful example of how young people are playing a larger role than any time in hisotry in driving societal change.
+This week, we highlight http://NY.Gov  
+
+NY.Gov is run by Rachel Haot, a 30 year old NYU graduate who became New York City's first ever Chief Digital Officer at just 26 years old under Mayor Michael Bloomberg.  Rachel is a powerful example of how young people are playing a larger role than any time in hisotry in driving societal change.
 
 ![Rachel Haot](http://1.bp.blogspot.com/-QeW0jsIP9Cw/US0na1jIDII/AAAAAAAAAU4/5AHfvz6V8U8/s1600/rachel_haot_with_phone.png)
 
