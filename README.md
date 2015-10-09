@@ -1,6 +1,6 @@
 # Mobile Spotlight
 
-*Introducing mobile spotlight.  The world around you is changing fast.  Whether its mHealth, journalism, fashion, or music, mobile technology is at the heart of those changes.* 
+*Introducing Mobile Spotlight.  The world around you is changing fast.  Whether its mHealth, journalism, fashion, or music, mobile technology is at the heart of those changes.* 
 
 *In Mobile Spotlight, we'll talk a bit about interesting events or activities in the space.*
 
