@@ -19,3 +19,5 @@ Rachel recently [wrote about her work with New York State](http://https://medium
 
 
 
+
+<a href='https://learn.co/lessons/pc-ios-mobileSpotlight-nycGov' data-visibility='hidden'>View this lesson on Learn.co</a>
